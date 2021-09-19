@@ -1,2 +1,2 @@
 # Desafio_Bootcamp_DIO
- Dessafio do bootcamp se identificar usando Git/Github
+ Dessafio do bootcamp  para se familiarizar  com Git/GitHub.
